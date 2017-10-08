@@ -2,7 +2,7 @@
 
 ## complete 200 competitive programming questions
 
-## List of Problems with link to solution 
+## List of Problems with link to solution
 
 ## Codechef Random Easy Questions
 
@@ -11,3 +11,4 @@
 3. [PLZLYKME](https://www.codechef.com/status/PLZLYKME,sombls)
 4. [ALEXNUMB](https://www.codechef.com/status/ALEXNUMB,sombls)
 5. [GCD2](https://www.codechef.com/status/GCD2,sombls)
+6. [PCYCLE](https://www.codechef.com/status/PCYCLE,sombls)
