@@ -14,4 +14,7 @@
 6. [PCYCLE](https://www.codechef.com/status/PCYCLE,sombls)
 7. [FROGV](https://www.codechef.com/status/FROGV,sombls)
 8. [SUMPAIR](https://www.codechef.com/status/SUMPAIR,sombls)
-
+9. [KPRIME](https://www.codechef.com/status/KPRIME,sombls)
+10. [MAANDI](https://www.codechef.com/status/MAANDI,sombls)
+11. [EASYPROB](https://www.codechef.com/status/EASYPROB,sombls)
+12. [PRIMES2](https://www.codechef.com/status/PRIMES2,sombls)
