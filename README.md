@@ -18,3 +18,5 @@
 10. [MAANDI](https://www.codechef.com/status/MAANDI,sombls)
 11. [EASYPROB](https://www.codechef.com/status/EASYPROB,sombls)
 12. [PRIMES2](https://www.codechef.com/status/PRIMES2,sombls)
+13. [EQUATION](https://www.codechef.com/status/EQUATION,sombls)
+14. [DESTROY](https://www.codechef.com/status/DESTROY,sombls)
