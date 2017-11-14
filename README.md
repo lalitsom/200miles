@@ -23,5 +23,5 @@
 15. [ENTEXAM](https://www.codechef.com/status/ENTEXAM,sombls)
 
 
-## Long challenge May 17
+## Codechef Long challenge May 17
 1. [CHEFROUT](https://www.codechef.com/status/CHEFROUT,sombls)
