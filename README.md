@@ -20,3 +20,8 @@
 12. [PRIMES2](https://www.codechef.com/status/PRIMES2,sombls)
 13. [EQUATION](https://www.codechef.com/status/EQUATION,sombls)
 14. [DESTROY](https://www.codechef.com/status/DESTROY,sombls)
+15. [ENTEXAM](https://www.codechef.com/status/ENTEXAM,sombls)
+
+
+## Long challenge May 17
+1. [CHEFROUT](https://www.codechef.com/status/CHEFROUT,sombls)
