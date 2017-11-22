@@ -25,3 +25,5 @@
 
 ## Codechef Long challenge May 17
 1. [CHEFROUT](https://www.codechef.com/status/CHEFROUT,sombls)
+2. [UNICOURS](https://www.codechef.com/status/UNICOURS,sombls)
+3. [MXMEDIAN](https://www.codechef.com/status/MXMEDIAN,sombls)
