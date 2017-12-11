@@ -3,8 +3,8 @@
 ## complete 200 competitive programming questions
 
 ## List of Problems with link to solution
-		
-	
+
+
 ## Codechef Random Easy Questions
 
 1. [CSUB](https://www.codechef.com/status/CSUB,sombls)
@@ -28,4 +28,11 @@
 1. [CHEFROUT](https://www.codechef.com/status/CHEFROUT,sombls)
 2. [UNICOURS](https://www.codechef.com/status/UNICOURS,sombls)
 3. [MXMEDIAN](https://www.codechef.com/status/MXMEDIAN,sombls)
-4. [CHEFSUBA *](https://www.codechef.com/status/CHEFSUBA,sombls)
+4. [CHEFSUBA](https://www.codechef.com/status/CHEFSUBA,sombls) *
+
+## Codechef Long challenge Dec 17
+1. [GIT01](https://www.codechef.com/DEC17/status/GIT01,kdark884)
+2. [CPLAY](https://www.codechef.com/DEC17/status/CPLAY,kdark884)
+3. [VK18](https://www.codechef.com/DEC17/status/VK18,kdark884)
+4. [CHEFHAM](https://www.codechef.com/DEC17/status/CHEFHAM,kdark884)
+5. [CHEFEXQ](https://www.codechef.com/DEC17/status/CHEFEXQ,kdark884) *
