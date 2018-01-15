@@ -38,9 +38,9 @@
 5. [CHEFEXQ](https://www.codechef.com/DEC17/status/CHEFEXQ,kdark884) *
 
 ## Codechef Long challenge Jan 18
-1. [RECTANGL](https://www.codechef.com/DEC17/status/RECTANGL,kdark884)
-2. [MAXSC](https://www.codechef.com/DEC17/status/MAXSC,kdark884)
-3. [KCON](https://www.codechef.com/DEC17/status/KCON,kdark884)
-4. [PRTITION](https://www.codechef.com/DEC17/status/PRTITION,kdark884)
-5. [STRMRG](https://www.codechef.com/DEC17/status/STRMRG,kdark884) *
-6. [MONSTER](https://www.codechef.com/DEC17/status/MONSTER,kdark884) *
+1. [RECTANGL](https://www.codechef.com/JAN18/status/RECTANGL,kdark884)
+2. [MAXSC](https://www.codechef.com/JAN18/status/MAXSC,kdark884)
+3. [KCON](https://www.codechef.com/JAN18/status/KCON,kdark884)
+4. [PRTITION](https://www.codechef.com/JAN18/status/PRTITION,kdark884)
+5. [STRMRG](https://www.codechef.com/JAN18/status/STRMRG,kdark884) *
+6. [MONSTER](https://www.codechef.com/JAN18/status/MONSTER,kdark884) *
