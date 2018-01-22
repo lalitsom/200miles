@@ -42,5 +42,19 @@
 2. [MAXSC](https://www.codechef.com/JAN18/status/MAXSC,kdark884)
 3. [KCON](https://www.codechef.com/JAN18/status/KCON,kdark884)
 4. [PRTITION](https://www.codechef.com/JAN18/status/PRTITION,kdark884)
-5. [STRMRG](https://www.codechef.com/JAN18/status/STRMRG,kdark884) *
+5. [STRMRG](https://www.codechef.com/status/STRMRG,kdark884) *
 6. [MONSTER](https://www.codechef.com/JAN18/status/MONSTER,kdark884) *
+
+
+##  COOKOFF DEC 17
+1. [FBMT](https://www.codechef.com/status/FBMT,kdark884)
+2. [BTAR](https://www.codechef.com/status/BTAR,kdark884)
+3. [MINSUBAR](https://www.codechef.com/status/MINSUBAR,kdark884)
+
+
+##  COOKOFF Jan 18
+1. [SURVIVE](https://www.codechef.com/status/SURVIVE,kdark884)
+2. [MULTHREE](https://www.codechef.com/status/MULTHREE,kdark884)
+3. [MAGA](https://www.codechef.com/status/MAGA,kdark884)
+
+
