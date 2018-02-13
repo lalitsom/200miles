@@ -57,4 +57,28 @@
 2. [MULTHREE](https://www.codechef.com/status/MULTHREE,kdark884)
 3. [MAGA](https://www.codechef.com/status/MAGA,kdark884)
 
+##  Codechef LUNCH TIME JAN 18 (Practice)
+1. [L56LABY](https://www.codechef.com/status/L56LABY,kdark884)
+2. [L56GAME](https://www.codechef.com/status/L56GAME,kdark884)
 
+##  Codechef Long challenge SEPT 15 (Practice)
+1. [MSTEP](https://www.codechef.com/status/MSTEP,kdark884)
+2. [DONUTS](https://www.codechef.com/status/DONUTS,kdark884)
+3. [BANROB](https://www.codechef.com/status/BANROB,kdark884)
+4. [LIGHTHSE](https://www.codechef.com/status/LIGHTHSE,kdark884)
+5. [CODECRCK](https://www.codechef.com/status/CODECRCK,kdark884)
+
+##  Codechef Long challenge OCT 15 (Practice)
+1. [SUBINC](https://www.codechef.com/status/SUBINC,kdark884)
+2. [WDTBAM](https://www.codechef.com/status/WDTBAM,kdark884)
+3. [TIMEASR](https://www.codechef.com/status/TIMEASR,kdark884)
+4. [ADTRI](https://www.codechef.com/status/ADTRI,kdark884)
+5. [KSPHERES](https://www.codechef.com/status/KSPHERES,kdark884)
+
+## Codechef Long challenge FEB 18
+1. [CHEFCHR](https://www.codechef.com/FEB18/status/CHEFCHR,kdark884)
+2. [CHEFPTNT](https://www.codechef.com/FEB18/status/CHEFPTNT,kdark884)
+3. [CARPTUN](https://www.codechef.com/FEB18/status/CARPTUN,kdark884)
+4. [PERMPAL](https://www.codechef.com/FEB18/status/PERMPAL,kdark884)
+5. [BROCLK](https://www.codechef.com/FEB18/status/BROCLK,kdark884)
+6. [POINPOLY](https://www.codechef.com/FEB18/status/POINPOLY,kdark884)
