@@ -1,9 +1,12 @@
 # 200miles
+ 
 
+
+## 57/200 
 ## complete 200 competitive programming questions
 
 ## List of Problems with link to solution
-
+	*took help
 
 ## Codechef Random Easy Questions
 
@@ -21,14 +24,7 @@
 12. [PRIMES2](https://www.codechef.com/status/PRIMES2,sombls)
 13. [EQUATION](https://www.codechef.com/status/EQUATION,sombls)
 14. [DESTROY](https://www.codechef.com/status/DESTROY,sombls)
-15. [ENTEXAM](https://www.codechef.com/status/ENTEXAM,sombls)
 
-
-## Codechef Long challenge May 17 (Practice)
-1. [CHEFROUT](https://www.codechef.com/status/CHEFROUT,sombls)
-2. [UNICOURS](https://www.codechef.com/status/UNICOURS,sombls)
-3. [MXMEDIAN](https://www.codechef.com/status/MXMEDIAN,sombls)
-4. [CHEFSUBA](https://www.codechef.com/status/CHEFSUBA,sombls) *
 
 ## Codechef Long challenge JULY 17
 1. [NITIKA](https://www.codechef.com/JULY17/status/NITIKA,kdark884)
@@ -87,3 +83,11 @@
 4. [PERMPAL](https://www.codechef.com/FEB18/status/PERMPAL,kdark884)
 5. [BROCLK](https://www.codechef.com/FEB18/status/BROCLK,kdark884)
 6. [POINPOLY](https://www.codechef.com/FEB18/status/POINPOLY,kdark884)
+
+## Codechef Long Challenge MARCH18A
+1. [MIXCOLOR](https://www.codechef.com/MARCH18A/status/MIXCOLOR,kdark884)
+2. [XXOR](https://www.codechef.com/FEB18/status/XXOR,kdark884)
+3. [MINVOTE](https://www.codechef.com/FEB18/status/MINVOTE,kdark884)
+4. [GCDCNT](https://www.codechef.com/FEB18/status/GCDCNT,kdark884)
+5. [PSHTRG](https://www.codechef.com/FEB18/status/PSHTRG,kdark884)
+
